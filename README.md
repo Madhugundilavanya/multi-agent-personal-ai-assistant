@@ -43,7 +43,7 @@ Install and start Ollama before using AI features.
 Frontend: http://localhost:8501
 API documentation: http://127.0.0.1:8000/docs
 
-## Limitations
+## Limitations 
 
 - Intended for local, single-user use.
 - Automatic routing uses keyword rules.
